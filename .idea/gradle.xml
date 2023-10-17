@@ -8,6 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/memento" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/strategy" />
+            <option value="$PROJECT_DIR$/templatemethod" />
+            <option value="$PROJECT_DIR$/visitor" />
           </set>
         </option>
       </GradleProjectSettings>

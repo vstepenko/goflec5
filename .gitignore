@@ -1,0 +1,8 @@
+/.idea/
+/.gradle/
+
+/memento/build/
+/state/build/
+/strategy/build/
+/templatemethod/build/
+/visitor/build/
